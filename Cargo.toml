@@ -40,7 +40,7 @@ sqlparser = "0.46.0"
 syn = { version = "2.0.66", features = ["full"] }
 tonic = { version = "0.11.0", features = ["tls-roots", "gzip"] }
 tonic-build = { version = "0.11.0", features = ["prost"] }
-wasmtime = "15.0.1"
+wasmtime = "27.0.0"
 wasmparser = "0.118.1"
 clap = { version = "4.5.4", features = ["derive", "env"] }
 
